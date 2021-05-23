@@ -1,4 +1,3 @@
-Back seounghyeon
-
-20213007 백승현
+Back seounghyeon 20213007 
+Kookmin University SW
 
