@@ -1,2 +1,2 @@
 Back seounghyeon 20213007 
-Kookmin University SW-computer
+Kookmin University SW-computer-science
